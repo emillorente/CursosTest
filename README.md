@@ -13,3 +13,10 @@ gh release download v3.9.16 --repo emillorente/CursosTest
 
 **Opción 3** — Desde el navegador:
 https://github.com/emillorente/CursosTest/releases/tag/v3.9.16
+
+### Instaladores disponibles
+
+| Archivo | Tipo |
+|---|---|
+| `CursorSetup-x64-3.9.16.exe` | Instalador system-wide (requiere admin) |
+| `CursorUserSetup-x64-3.9.16.exe` | Instalador por usuario (no requiere admin) |
